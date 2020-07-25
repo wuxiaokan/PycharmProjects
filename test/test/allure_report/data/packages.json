@@ -1,0 +1,61 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_allure_demo",
+    "children" : [ {
+      "name" : "用例的标题",
+      "uid" : "1c7931a5c1e13c25",
+      "parentUid" : "aea60a8774fa5c1e67bdcc9ab59f1d72",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591773110414,
+        "stop" : 1591773110415,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_case_2",
+      "uid" : "cf0a0a2af3fdf2b4",
+      "parentUid" : "aea60a8774fa5c1e67bdcc9ab59f1d72",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591773110418,
+        "stop" : 1591773110419,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_case_3",
+      "uid" : "ef80a4c7178ce269",
+      "parentUid" : "aea60a8774fa5c1e67bdcc9ab59f1d72",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591773110423,
+        "stop" : 1591773110423,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_case_4",
+      "uid" : "6ad4ad9fa5efa350",
+      "parentUid" : "aea60a8774fa5c1e67bdcc9ab59f1d72",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591773110428,
+        "stop" : 1591773110429,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "aea60a8774fa5c1e67bdcc9ab59f1d72"
+  } ]
+}

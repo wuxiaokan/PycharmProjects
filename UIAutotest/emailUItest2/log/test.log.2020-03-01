@@ -1,0 +1,183 @@
+2020-02-29 21:34:28,551 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-29 21:35:14,209 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-29 21:39:11,736 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200229.21.39.11-fttx222@aliyun.com账号的截图.png
+2020-02-29 21:39:18,998 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200229.21.39.18-fttxtest<fttxtest@126.com>账号的截图.png
+2020-02-29 21:39:26,462 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200229.21.39.26-fttx111@21cn.com账号的截图.png
+2020-02-29 21:39:33,493 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200229.21.39.33-zhongjie@hotmail.com账号的截图.png
+2020-02-29 21:39:44,286 - framework - INFO - Re:刘楠-重构版本-邮件发送测试-20200228.21.18.49
+2020-02-29 21:39:47,343 - framework - INFO - product_1560415976360_1.xlsx
+2020-02-29 21:39:54,043 - framework - INFO - Re:刘楠-重构版本-邮件发送测试-20200228.21.18.49
+2020-02-29 21:39:56,558 - framework - INFO - product_1560415976360_1.xlsx
+2020-02-29 21:40:03,192 - framework - INFO - Re:刘楠-重构版本-邮件发送测试-20200228.21.18.49
+2020-02-29 21:40:11,936 - framework - INFO - Re:刘楠-重构版本-邮件发送测试-20200228.21.18.49
+2020-02-29 21:40:29,929 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200229.21.40.29-跟进页面打开.png
+2020-02-29 21:40:31,068 - framework - INFO - 要设置的跟进阶段是：产品推广
+2020-02-29 21:40:33,929 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200229.21.40.33-跟进页面打开.png
+2020-02-29 21:40:34,463 - framework - INFO - 实际上获取的跟进阶段是：产品推广
+2020-02-29 21:40:39,932 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200229.21.40.39-跟进页面打开.png
+2020-02-29 21:40:40,467 - framework - INFO - 跟进页面上的客户联系人邮箱是：测试1<282450696@qq.com>
+2020-02-29 21:40:43,012 - framework - INFO - 由跟进页面点击发邮件icon后，带到写信页面的收件人是：282450696<282450696@qq.com>
+2020-02-29 21:40:50,503 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200229.21.40.50-跟进页面打开.png
+2020-02-29 21:40:57,388 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200229.21.40.57-跟进页面打开.png
+2020-02-29 21:41:23,510 - framework - INFO - 50
+2020-02-29 21:41:35,907 - framework - INFO - 没有找到审批框，直接发送
+2020-02-29 21:41:40,733 - framework - INFO - 50
+2020-02-29 21:41:42,661 - framework - INFO - 详情里面的主题：Re:刘楠-重构版本-邮件发送测试-20200228.21.18.49
+2020-02-29 21:41:42,694 - framework - INFO - 详情里面的发件人：fttx222<fttx222@aliyun.com>
+2020-02-29 21:41:43,739 - framework - INFO - 1
+2020-02-29 21:41:43,760 - framework - INFO - 邮件详情：节假回复测试，勿动
+2020-02-29 21:41:45,561 - framework - INFO - 写信页面的主题：Re:Re:刘楠-重构版本-邮件发送测试-20200228.21.18.49
+2020-02-29 21:41:45,607 - framework - INFO - 写信页面的发件人：info<info@joinf.com>
+2020-02-29 21:41:45,690 - framework - INFO - 写信页面的邮件内容：------------------ Original Message------------------
+From: fttx222<fttx222@aliyun.com>
+Date: 2020-02-28 21:22
+To: fttxtest<fttxtest@126.com>
+Subject: Re:刘楠-重构版本-邮件发送测试-20200228.21.18.49
+
+节假回复测试，勿动
+2020-02-29 21:43:23,144 - framework - INFO - 群发单显的邮件主题是：周淑兰-群发单显测试-20200229.21.43.23
+2020-02-29 21:43:40,841 - framework - INFO - 主题是：周淑兰-群发单显测试-20200229.21.43.23的群发单显邮件，所有的发件人是：['fttxtest@126.com', 'zhongjie@hotmail.com', 'changmin@gmail.com', 'laijun@yahoo.com', 'fttx111@21cn.com']
+2020-02-29 21:43:41,246 - framework - INFO - 主题是：周淑兰-群发单显测试-20200229.21.43.23的群发单显邮件，所有的收件人是：['282450696@qq.com', 'fttx666@aliyun.com', 'fttxtest@163.com', 'fttxtest@21cn.com', 'fttxtest@sohu.com']
+2020-02-29 21:43:41,246 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200229.21.43.41-群发单显邮件，发件详情.png
+2020-02-29 21:45:17,246 - framework - INFO - 根据关键词：6，联想的收件人：['管理员<fttxtest@126.com>\n总经办', '282450696@qq.com', 'fttx666@aliyun.com', 'fttxtest@163.com', 'gang60@yang.net', 'Postmaster@126.com']
+2020-02-29 21:45:23,032 - framework - INFO - 根据关键词：aliyun，联想的收件人：['fttx444<fttx444@aliyun.com>\n测试，勿动', 'fttx111<fttx111@aliyun.com>\nfttx111@aliyun.com', '管理员<fttx222@aliyun.com>\n总经办', '云基础<fttx333@aliyun.com>\n业务部', 'fttx666@aliyun.com', 'fttx888@aliyun.com']
+2020-02-29 21:45:27,977 - framework - INFO - 根据关键词：g6，联想的收件人：['gang60@yang.net']
+2020-02-29 21:45:34,279 - framework - INFO - 根据关键词：测试，联想的收件人：['fttx444<fttx444@aliyun.com>\n测试，勿动', 'fttx111<fttx111@sina.com>\n供应商测试，勿动fttx111@sina.com', 'fttxtest<fttxtest@sina.cn>\n供应商测试，勿动，谢谢，fttxtest@sina.cn']
+2020-02-29 21:45:39,998 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200229.21.45.39-修改后的快速文本.png
+2020-02-29 21:45:48,064 - framework - INFO - 要删除的快速文本标题是：王莹快速文本测试，可删除
+2020-02-29 21:45:55,075 - framework - INFO - fttx444<fttx444@aliyun.com>
+2020-02-29 21:46:05,523 - framework - INFO - Message: 
+
+2020-02-29 21:46:06,069 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-29 21:46:06,747 - framework - INFO - fttx444@aliyun.com
+2020-02-29 21:46:14,391 - framework - INFO - fttx444<fttx444@aliyun.com>
+2020-02-29 21:46:24,791 - framework - INFO - Message: 
+
+2020-02-29 21:46:25,344 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-29 21:46:26,025 - framework - INFO - fttx444@aliyun.com
+2020-02-29 21:46:33,493 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-29 21:46:44,012 - framework - INFO - Message: 
+
+2020-02-29 21:46:44,556 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-29 21:46:45,254 - framework - INFO - fttx444@aliyun.com
+2020-02-29 21:46:52,345 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-29 21:47:02,776 - framework - INFO - Message: 
+
+2020-02-29 21:47:03,315 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-29 21:47:03,984 - framework - INFO - fttx444@aliyun.com
+2020-02-29 21:47:11,208 - framework - INFO - fttx444<fttx444@aliyun.com>
+2020-02-29 21:47:21,619 - framework - INFO - Message: 
+
+2020-02-29 21:47:21,660 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-29 21:47:22,335 - framework - INFO - fttx444@aliyun.com
+2020-02-29 21:47:29,578 - framework - INFO - fttx444<fttx444@aliyun.com>
+2020-02-29 21:47:40,016 - framework - INFO - Message: 
+
+2020-02-29 21:47:40,055 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-29 21:47:40,724 - framework - INFO - fttx444@aliyun.com
+2020-02-29 21:47:47,905 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-29 21:47:58,359 - framework - INFO - Message: 
+
+2020-02-29 21:47:58,400 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-29 21:47:59,068 - framework - INFO - fttx444@aliyun.com
+2020-02-29 21:48:06,187 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-29 21:48:16,598 - framework - INFO - Message: 
+
+2020-02-29 21:48:16,640 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-29 21:48:17,302 - framework - INFO - fttx444@aliyun.com
+2020-02-29 21:52:05,849 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-29 21:52:05,849 - framework - INFO - -----测试报告已发送-------
+2020-02-29 21:59:49,799 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-29 22:00:13,302 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200229.22.00.13-跟进页面打开.png
+2020-02-29 22:00:13,867 - framework - INFO - 跟进页面上的客户联系人邮箱是：测试1<282450696@qq.com>
+2020-02-29 22:00:15,264 - framework - INFO - 由跟进页面点击发邮件icon后，带到写信页面的收件人是：测试1<282450696@qq.com>
+2020-02-29 22:00:15,270 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-29 22:00:15,270 - framework - INFO - -----测试报告已发送-------
+2020-03-01 19:18:42,990 - framework - INFO - 用例开始执行```````````````````````````
+2020-03-01 19:22:45,702 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200301.19.22.45-fttx222@aliyun.com账号的截图.png
+2020-03-01 19:22:52,940 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200301.19.22.52-fttxtest<fttxtest@126.com>账号的截图.png
+2020-03-01 19:23:00,751 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200301.19.23.00-fttx111@21cn.com账号的截图.png
+2020-03-01 19:23:08,171 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200301.19.23.08-zhongjie@hotmail.com账号的截图.png
+2020-03-01 19:23:16,772 - framework - INFO - Re:刘楠-重构版本-邮件发送测试-20200228.21.18.49
+2020-03-01 19:23:19,428 - framework - INFO - product_1560415976360_1.xlsx
+2020-03-01 19:23:26,822 - framework - INFO - Re:刘楠-重构版本-邮件发送测试-20200228.21.18.49
+2020-03-01 19:23:29,440 - framework - INFO - product_1560415976360_1.xlsx
+2020-03-01 19:23:36,580 - framework - INFO - Re:刘楠-重构版本-邮件发送测试-20200228.21.18.49
+2020-03-01 19:23:47,182 - framework - INFO - Re:刘楠-重构版本-邮件发送测试-20200228.21.18.49
+2020-03-01 19:24:05,381 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200301.19.24.05-跟进页面打开.png
+2020-03-01 19:24:06,465 - framework - INFO - 要设置的跟进阶段是：产品推广
+2020-03-01 19:24:09,086 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200301.19.24.09-跟进页面打开.png
+2020-03-01 19:24:09,574 - framework - INFO - 实际上获取的跟进阶段是：产品推广
+2020-03-01 19:24:15,486 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200301.19.24.15-跟进页面打开.png
+2020-03-01 19:24:16,033 - framework - INFO - 跟进页面上的客户联系人邮箱是：测试1<282450696@qq.com>
+2020-03-01 19:24:18,473 - framework - INFO - 由跟进页面点击发邮件icon后，带到写信页面的收件人是：测试1<282450696@qq.com>
+2020-03-01 19:24:25,348 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200301.19.24.25-跟进页面打开.png
+2020-03-01 19:24:31,966 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200301.19.24.31-跟进页面打开.png
+2020-03-01 19:24:58,151 - framework - INFO - 50
+2020-03-01 19:25:10,476 - framework - INFO - 没有找到审批框，直接发送
+2020-03-01 19:25:18,036 - framework - INFO - 50
+2020-03-01 19:25:19,799 - framework - INFO - 详情里面的主题：Re:Re:刘楠-重构版本-邮件发送测试-20200228.21.18.49
+2020-03-01 19:25:19,833 - framework - INFO - 详情里面的发件人：fttx222<fttx222@aliyun.com>
+2020-03-01 19:25:20,878 - framework - INFO - 1
+2020-03-01 19:25:20,899 - framework - INFO - 邮件详情：节假回复测试，勿动
+2020-03-01 19:25:22,659 - framework - INFO - 写信页面的主题：Re:Re:Re:刘楠-重构版本-邮件发送测试-20200228.21.18.49
+2020-03-01 19:25:22,723 - framework - INFO - 写信页面的发件人：info<info@joinf.com>
+2020-03-01 19:25:22,812 - framework - INFO - 写信页面的邮件内容：------------------ Original Message------------------
+From: fttx222<fttx222@aliyun.com>
+Date: 2020-02-29 21:44
+To: fttxtest<fttxtest@126.com>
+Subject: Re:Re:刘楠-重构版本-邮件发送测试-20200228.21.18.49
+
+节假回复测试，勿动
+2020-03-01 19:26:41,831 - framework - INFO - 群发单显的邮件主题是：钟想-群发单显测试-20200301.19.26.41
+2020-03-01 19:26:58,937 - framework - INFO - 主题是：钟想-群发单显测试-20200301.19.26.41的群发单显邮件，所有的发件人是：['fttxtest@126.com', 'zhongjie@hotmail.com', 'changmin@gmail.com', 'laijun@yahoo.com', 'fttx111@21cn.com']
+2020-03-01 19:26:59,069 - framework - INFO - 主题是：钟想-群发单显测试-20200301.19.26.41的群发单显邮件，所有的收件人是：['282450696@qq.com', 'fttx666@aliyun.com', 'fttxtest@163.com', 'fttxtest@21cn.com', 'fttxtest@sohu.com']
+2020-03-01 19:26:59,069 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200301.19.26.59-群发单显邮件，发件详情.png
+2020-03-01 19:28:35,001 - framework - INFO - 根据关键词：6，联想的收件人：['管理员<fttxtest@126.com>\n总经办', '282450696@qq.com', 'fttx666@aliyun.com', 'fttxtest@163.com', 'gang60@yang.net', 'Postmaster@126.com']
+2020-03-01 19:28:40,720 - framework - INFO - 根据关键词：aliyun，联想的收件人：['fttx444<fttx444@aliyun.com>\n测试，勿动', 'fttx111<fttx111@aliyun.com>\nfttx111@aliyun.com', '管理员<fttx222@aliyun.com>\n总经办', '云基础<fttx333@aliyun.com>\n业务部', 'fttx666@aliyun.com', 'fttx888@aliyun.com']
+2020-03-01 19:28:46,211 - framework - INFO - 根据关键词：g6，联想的收件人：['gang60@yang.net']
+2020-03-01 19:28:51,777 - framework - INFO - 根据关键词：测试，联想的收件人：['fttx444<fttx444@aliyun.com>\n测试，勿动', 'fttx111<fttx111@sina.com>\n供应商测试，勿动fttx111@sina.com', 'fttxtest<fttxtest@sina.cn>\n供应商测试，勿动，谢谢，fttxtest@sina.cn']
+2020-03-01 19:28:57,289 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200301.19.28.57-修改后的快速文本.png
+2020-03-01 19:29:04,139 - framework - INFO - 要删除的快速文本标题是：黄想快速文本测试，可删除
+2020-03-01 19:29:10,746 - framework - INFO - fttx444<fttx444@aliyun.com>
+2020-03-01 19:29:21,259 - framework - INFO - Message: 
+
+2020-03-01 19:29:21,814 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-03-01 19:29:22,496 - framework - INFO - fttx444@aliyun.com
+2020-03-01 19:29:29,899 - framework - INFO - fttx444<fttx444@aliyun.com>
+2020-03-01 19:29:40,366 - framework - INFO - Message: 
+
+2020-03-01 19:29:40,915 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-03-01 19:29:41,591 - framework - INFO - fttx444@aliyun.com
+2020-03-01 19:29:48,790 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-03-01 19:29:59,253 - framework - INFO - Message: 
+
+2020-03-01 19:29:59,793 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-03-01 19:30:00,487 - framework - INFO - fttx444@aliyun.com
+2020-03-01 19:30:07,870 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-03-01 19:30:18,368 - framework - INFO - Message: 
+
+2020-03-01 19:30:18,908 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-03-01 19:30:19,585 - framework - INFO - fttx444@aliyun.com
+2020-03-01 19:30:27,039 - framework - INFO - fttx444<fttx444@aliyun.com>
+2020-03-01 19:30:37,471 - framework - INFO - Message: 
+
+2020-03-01 19:30:37,511 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-03-01 19:30:38,196 - framework - INFO - fttx444@aliyun.com
+2020-03-01 19:30:45,447 - framework - INFO - fttx444<fttx444@aliyun.com>
+2020-03-01 19:30:55,899 - framework - INFO - Message: 
+
+2020-03-01 19:30:55,950 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-03-01 19:30:56,640 - framework - INFO - fttx444@aliyun.com
+2020-03-01 19:31:03,888 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-03-01 19:31:14,411 - framework - INFO - Message: 
+
+2020-03-01 19:31:14,451 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-03-01 19:31:15,129 - framework - INFO - fttx444@aliyun.com
+2020-03-01 19:31:22,606 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-03-01 19:31:33,049 - framework - INFO - Message: 
+
+2020-03-01 19:31:33,092 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-03-01 19:31:33,881 - framework - INFO - fttx444@aliyun.com
+2020-03-01 19:35:19,182 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-03-01 19:35:19,182 - framework - INFO - -----测试报告已发送-------

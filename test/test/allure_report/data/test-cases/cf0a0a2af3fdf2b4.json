@@ -1,0 +1,123 @@
+{
+  "uid" : "cf0a0a2af3fdf2b4",
+  "name" : "test_case_2",
+  "fullName" : "test_allure_demo.TestDemoAllure#test_case_2",
+  "historyId" : "7ee64c960230f0eb7d27ad8de8e6d07a",
+  "time" : {
+    "start" : 1591773110418,
+    "stop" : 1591773110419,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login_fixture",
+    "time" : {
+      "start" : 1591773110412,
+      "stop" : 1591773110412,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤1",
+      "time" : {
+        "start" : 1591773110419,
+        "stop" : 1591773110419,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "步骤3",
+      "time" : {
+        "start" : 1591773110419,
+        "stop" : 1591773110419,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "5b590204ea729345",
+      "name" : "stdout",
+      "source" : "5b590204ea729345.txt",
+      "type" : "text/plain",
+      "size" : 72
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "用户故事：2"
+  }, {
+    "name" : "epic",
+    "value" : "epic对大Story的一个描述性标签"
+  }, {
+    "name" : "feature",
+    "value" : "测试模块"
+  }, {
+    "name" : "suite",
+    "value" : "test_allure_demo"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDemoAllure"
+  }, {
+    "name" : "host",
+    "value" : "ZXZ111"
+  }, {
+    "name" : "thread",
+    "value" : "4736-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_allure_demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cf0a0a2af3fdf2b4.json",
+  "parameterValues" : [ ]
+}

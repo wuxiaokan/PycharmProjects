@@ -1,0 +1,424 @@
+2020-02-25 16:16:31,348 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 16:16:54,086 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.16.16.54-跟进页面打开.png
+2020-02-25 16:16:55,296 - framework - INFO - 要设置的跟进阶段是：产品推广
+2020-02-25 16:16:57,833 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.16.16.57-跟进页面打开.png
+2020-02-25 16:16:58,326 - framework - INFO - 实际上获取的跟进阶段是：产品推广
+2020-02-25 16:17:03,734 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.16.17.03-跟进页面打开.png
+2020-02-25 16:17:04,200 - framework - INFO - 跟进页面上的客户联系人邮箱是：测试1<282450696@qq.com>
+2020-02-25 16:17:06,734 - framework - INFO - 由跟进页面点击发邮件icon后，带到写信页面的收件人是：测试1<282450696@qq.com>
+2020-02-25 16:17:14,177 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.16.17.14-跟进页面打开.png
+2020-02-25 16:17:20,761 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.16.17.20-跟进页面打开.png
+2020-02-25 16:18:06,876 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 16:18:06,878 - framework - INFO - -----测试报告已发送-------
+2020-02-25 16:25:30,659 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 16:26:45,953 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 16:28:04,025 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 16:28:12,628 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 16:28:12,628 - framework - INFO - -----测试报告已发送-------
+2020-02-25 16:28:28,862 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 16:28:37,215 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 16:28:37,215 - framework - INFO - -----测试报告已发送-------
+2020-02-25 16:29:06,222 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 16:30:48,371 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 16:34:30,865 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.16.34.30-选中一个内部联系人.png
+2020-02-25 16:35:51,295 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.16.35.51-fttx222@aliyun.com账号的截图.png
+2020-02-25 16:36:05,422 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.16.36.05-fangwang@hotmail.com账号的截图.png
+2020-02-25 16:36:12,995 - framework - INFO - Re:张小红-重构版本-邮件发送测试-20200224.21.07.21
+2020-02-25 16:36:16,208 - framework - INFO - product_1560415976360_1.xlsx
+2020-02-25 16:36:27,449 - framework - INFO - 重名文件提示部分报错
+2020-02-25 16:36:42,392 - framework - INFO - Re:张小红-重构版本-邮件发送测试-20200224.21.07.21
+2020-02-25 16:36:45,012 - framework - INFO - product_1560415976360_1.xlsx
+2020-02-25 16:36:56,345 - framework - INFO - 重名文件提示部分报错
+2020-02-25 16:37:11,520 - framework - INFO - Re:张小红-重构版本-邮件发送测试-20200224.21.07.21
+2020-02-25 16:37:20,287 - framework - INFO - Re:张小红-重构版本-邮件发送测试-20200224.21.07.21
+2020-02-25 16:37:36,743 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.16.37.36-跟进页面打开.png
+2020-02-25 16:37:37,867 - framework - INFO - 要设置的跟进阶段是：打的
+2020-02-25 16:37:40,395 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.16.37.40-跟进页面打开.png
+2020-02-25 16:37:40,864 - framework - INFO - 实际上获取的跟进阶段是：打的
+2020-02-25 16:37:46,204 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.16.37.46-跟进页面打开.png
+2020-02-25 16:37:46,678 - framework - INFO - 跟进页面上的客户联系人邮箱是：测试1<282450696@qq.com>
+2020-02-25 16:38:03,795 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.16.38.03-跟进页面打开.png
+2020-02-25 16:38:10,427 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.16.38.10-跟进页面打开.png
+2020-02-25 16:38:51,973 - framework - INFO - 50
+2020-02-25 16:39:04,463 - framework - INFO - 没有找到审批框，直接发送
+2020-02-25 16:39:09,239 - framework - INFO - 50
+2020-02-25 16:39:11,144 - framework - INFO - 详情里面的主题：Re:张小红-重构版本-邮件发送测试-20200224.21.07.21
+2020-02-25 16:39:11,179 - framework - INFO - 详情里面的发件人：管理员<fttx222@aliyun.com>
+2020-02-25 16:39:12,223 - framework - INFO - 1
+2020-02-25 16:39:12,263 - framework - INFO - 邮件详情：论坛以及这是觉得可以.经济成为电话游戏社区企业完全.
+希望市场位置制作免费.用户联系汽车销售日本经济一次.名称要求论坛类型.
+直接影响经济是否.地区社会密码无法有限应用各种.品牌这样来自有关日期密码具有看到.
+回复经济方法还是世界谢谢.教育知道然后有限问题.
+你们数据一点工作投资.
+表示价格显示服务.的人很多对于社区当前.所有孩子能力根据次数学校.
+如此销售不要信息帖子.设计帖子系统学校浏览.
+------------------ Original Message------------------
+From: fttxtest<fttxtest@126.com>
+Date: 2020-02-24 21:07
+To: 管理员<fttx222@aliyun.com>
+Subject: 张小红-重构版本-邮件发送测试-20200224.21.07.21
+
+Item No.： P00000001
+Commodity：
+Packing：
+Carton Size： 0.0*0.0*0.0  CM
+Carton Quantity： 0
+Gross/Net Weight： 0.000/0.000  KG
+Supplying Price： USD 0.00
+Description：
+Comments：
+ 首页
+--
+ 功能感觉报告事情提供内容.基本更多一种.
+成为任何希望.文化基本美国.企业论坛出来公司所以等级网站.
+其中登录也是一种网络.以上具有提高不过.软件环境是否现在不断方式女人.
+推荐选择我们因此生产资源各种.进入有限类型过程如何.不断今年帮助.喜欢影响只是单位.
+电子增加社区其他不能制作.名称由于下载那个的话如此.
+正在单位密码作者记者.以下中文名称.
+本站这些谢谢语言特别由于.情况日本一种.
+
+Attachment Download (Reserved only to the specified date . Please download it in time.)
+1.  backend.zip    Reserved to 2 Mar 2020 GMT
+2.  5648215.jpg    Reserved to 2 Mar 2020 GMT
+2020-02-25 16:39:14,055 - framework - INFO - 写信页面的主题：Re:Re:张小红-重构版本-邮件发送测试-20200224.21.07.21
+2020-02-25 16:39:14,088 - framework - INFO - 写信页面的发件人：管理员<fttx222@aliyun.com>
+2020-02-25 16:39:14,183 - framework - INFO - 写信页面的邮件内容：------------------ Original Message------------------
+From: fttx222<fttx222@aliyun.com>
+Date: 2020-02-24 21:08
+To: 管理员<fttxtest@126.com>
+Subject: Re:张小红-重构版本-邮件发送测试-20200224.21.07.21
+
+论坛以及这是觉得可以.经济成为电话游戏社区企业完全.
+希望市场位置制作免费.用户联系汽车销售日本经济一次.名称要求论坛类型.
+直接影响经济是否.地区社会密码无法有限应用各种.品牌这样来自有关日期密码具有看到.
+回复经济方法还是世界谢谢.教育知道然后有限问题.
+你们数据一点工作投资.
+表示价格显示服务.的人很多对于社区当前.所有孩子能力根据次数学校.
+如此销售不要信息帖子.设计帖子系统学校浏览.
+------------------ Original Message------------------
+From: fttxtest<fttxtest@126.com>
+Date: 2020-02-24 21:07
+To: 管理员<fttx222@aliyun.com>
+Subject: 张小红-重构版本-邮件发送测试-20200224.21.07.21
+
+Item No.： P00000001
+Commodity：
+Packing：
+Carton Size： 0.0*0.0*0.0  CM
+Carton Quantity： 0
+Gross/Net Weight： 0.000/0.000  KG
+Supplying Price： USD 0.00
+Description：
+Comments：
+ 首页
+--
+ 功能感觉报告事情提供内容.基本更多一种.
+成为任何希望.文化基本美国.企业论坛出来公司所以等级网站.
+其中登录也是一种网络.以上具有提高不过.软件环境是否现在不断方式女人.
+推荐选择我们因此生产资源各种.进入有限类型过程如何.不断今年帮助.喜欢影响只是单位.
+电子增加社区其他不能制作.名称由于下载那个的话如此.
+正在单位密码作者记者.以下中文名称.
+本站这些谢谢语言特别由于.情况日本一种.
+
+Attachment Download (Reserved only to the specified date . Please download it in time.)
+1.  backend.zip    Reserved to 2 Mar 2020 GMT
+2.  5648215.jpg    Reserved to 2 Mar 2020 GMT
+2020-02-25 16:41:00,412 - framework - INFO - 群发单显的邮件主题是：刘淑珍-群发单显测试-20200225.16.41.00
+2020-02-25 16:41:17,845 - framework - INFO - 主题是：刘淑珍-群发单显测试-20200225.16.41.00的群发单显邮件，所有的发件人是：['fttx222@aliyun.com', 'fangwang@hotmail.com', 'changmin@gmail.com', 'fttxtest@126.com', 'fttx111@21cn.com']
+2020-02-25 16:41:17,976 - framework - INFO - 主题是：刘淑珍-群发单显测试-20200225.16.41.00的群发单显邮件，所有的收件人是：['282450696@qq.com', 'fttx666@aliyun.com', 'fttxtest@163.com', 'fttxtest@21cn.com', 'fttxtest@sohu.com']
+2020-02-25 16:41:17,976 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.16.41.17-群发单显邮件，发件详情.png
+2020-02-25 16:43:09,119 - framework - INFO - 根据关键词：aliyun，联想的收件人：['fttx444<fttx444@aliyun.com>\n测试', 'fttx111<fttx111@aliyun.com>\nfttx111@aliyun.com', '管理员<fttx222@aliyun.com>\n总经办', '云基础<fttx333@aliyun.com>\n业务部', 'fttx666@aliyun.com', 'fttx888@aliyun.com']
+2020-02-25 16:43:44,151 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.16.43.44-修改后的快速文本.png
+2020-02-25 16:43:51,184 - framework - INFO - 要删除的快速文本标题是：张涛快速文本测试，可删除
+2020-02-25 16:44:10,897 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 16:44:21,491 - framework - INFO - Message: 
+
+2020-02-25 16:44:22,038 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 16:44:22,902 - framework - INFO - fttx444@aliyun.com
+2020-02-25 16:44:30,361 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 16:44:40,759 - framework - INFO - Message: 
+
+2020-02-25 16:44:41,303 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 16:44:42,007 - framework - INFO - fttx444@aliyun.com
+2020-02-25 16:44:49,381 - framework - INFO - fttx444<fttx444@aliyun.com>
+2020-02-25 16:44:59,838 - framework - INFO - Message: 
+
+2020-02-25 16:44:59,887 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 16:45:00,569 - framework - INFO - fttx444@aliyun.com
+2020-02-25 16:45:08,164 - framework - INFO - fttx444<fttx444@aliyun.com>
+2020-02-25 16:45:18,618 - framework - INFO - Message: 
+
+2020-02-25 16:45:18,663 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 16:45:19,343 - framework - INFO - fttx444@aliyun.com
+2020-02-25 16:45:26,987 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 16:45:37,459 - framework - INFO - Message: 
+
+2020-02-25 16:45:37,496 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 16:45:38,176 - framework - INFO - fttx444@aliyun.com
+2020-02-25 16:45:45,263 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 16:45:55,691 - framework - INFO - Message: 
+
+2020-02-25 16:45:55,732 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 16:45:56,421 - framework - INFO - fttx444@aliyun.com
+2020-02-25 16:50:07,313 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 16:50:07,315 - framework - INFO - -----测试报告已发送-------
+2020-02-25 17:01:17,400 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 17:02:00,986 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 17:02:00,986 - framework - INFO - -----测试报告已发送-------
+2020-02-25 17:05:23,263 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 17:05:56,375 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 17:05:56,375 - framework - INFO - -----测试报告已发送-------
+2020-02-25 17:07:00,127 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 17:07:33,281 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 17:07:33,281 - framework - INFO - -----测试报告已发送-------
+2020-02-25 17:08:26,572 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 17:08:47,811 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 17:08:47,811 - framework - INFO - -----测试报告已发送-------
+2020-02-25 17:10:52,983 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 17:14:16,942 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.17.14.16-选中一个内部联系人.png
+2020-02-25 17:15:43,391 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.17.15.43-fttx222@aliyun.com账号的截图.png
+2020-02-25 17:15:50,534 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.17.15.50-fttxtest@126.com账号的截图.png
+2020-02-25 17:15:57,549 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.17.15.57-fttx111@21cn.com账号的截图.png
+2020-02-25 17:16:05,252 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.17.16.05-zhongjie@hotmail.com账号的截图.png
+2020-02-25 17:16:14,284 - framework - INFO - Re:张小红-重构版本-邮件发送测试-20200224.21.07.21
+2020-02-25 17:16:17,292 - framework - INFO - product_1560415976360_1.xlsx
+2020-02-25 17:16:23,914 - framework - INFO - Re:张小红-重构版本-邮件发送测试-20200224.21.07.21
+2020-02-25 17:16:26,481 - framework - INFO - product_1560415976360_1.xlsx
+2020-02-25 17:16:33,363 - framework - INFO - Re:张小红-重构版本-邮件发送测试-20200224.21.07.21
+2020-02-25 17:16:42,734 - framework - INFO - Re:张小红-重构版本-邮件发送测试-20200224.21.07.21
+2020-02-25 17:17:00,478 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.17.17.00-跟进页面打开.png
+2020-02-25 17:17:01,618 - framework - INFO - 要设置的跟进阶段是：签订协议
+2020-02-25 17:17:04,276 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.17.17.04-跟进页面打开.png
+2020-02-25 17:17:04,831 - framework - INFO - 实际上获取的跟进阶段是：签订协议
+2020-02-25 17:17:10,431 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.17.17.10-跟进页面打开.png
+2020-02-25 17:17:11,235 - framework - INFO - 跟进页面上的客户联系人邮箱是：测试1<282450696@qq.com>
+2020-02-25 17:17:12,717 - framework - INFO - 由跟进页面点击发邮件icon后，带到写信页面的收件人是：测试1<282450696@qq.com>
+2020-02-25 17:17:20,640 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.17.17.20-跟进页面打开.png
+2020-02-25 17:17:27,774 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.17.17.27-跟进页面打开.png
+2020-02-25 17:18:08,802 - framework - INFO - 50
+2020-02-25 17:18:21,388 - framework - INFO - 没有找到审批框，直接发送
+2020-02-25 17:18:26,139 - framework - INFO - 50
+2020-02-25 17:18:28,075 - framework - INFO - 详情里面的主题：Re:张小红-重构版本-邮件发送测试-20200224.21.07.21
+2020-02-25 17:18:28,108 - framework - INFO - 详情里面的发件人：管理员<fttxtest@126.com>
+2020-02-25 17:18:29,163 - framework - INFO - 1
+2020-02-25 17:18:29,216 - framework - INFO - 邮件详情：快速回复测试
+
+------------------ 原始邮件 ------------------
+发件人: 管理员
+发送时间: 2020-02-24 21:08
+收件人: 管理员
+主题: Re:张小红-重构版本-邮件发送测试-20200224.21.07.21
+
+论坛以及这是觉得可以.经济成为电话游戏社区企业完全.
+希望市场位置制作免费.用户联系汽车销售日本经济一次.名称要求论坛类型.
+直接影响经济是否.地区社会密码无法有限应用各种.品牌这样来自有关日期密码具有看到.
+回复经济方法还是世界谢谢.教育知道然后有限问题.
+你们数据一点工作投资.
+表示价格显示服务.的人很多对于社区当前.所有孩子能力根据次数学校.
+如此销售不要信息帖子.设计帖子系统学校浏览.
+------------------ Original Message------------------
+From: fttxtest<fttxtest@126.com>
+Date: 2020-02-24 21:07
+To: 管理员<fttx222@aliyun.com>
+Subject: 张小红-重构版本-邮件发送测试-20200224.21.07.21
+
+Item No.： P00000001
+Commodity：
+Packing：
+Carton Size： 0.0*0.0*0.0  CM
+Carton Quantity： 0
+Gross/Net Weight： 0.000/0.000  KG
+Supplying Price： USD 0.00
+Description：
+Comments：
+ 首页
+--
+ 功能感觉报告事情提供内容.基本更多一种.
+成为任何希望.文化基本美国.企业论坛出来公司所以等级网站.
+其中登录也是一种网络.以上具有提高不过.软件环境是否现在不断方式女人.
+推荐选择我们因此生产资源各种.进入有限类型过程如何.不断今年帮助.喜欢影响只是单位.
+电子增加社区其他不能制作.名称由于下载那个的话如此.
+正在单位密码作者记者.以下中文名称.
+本站这些谢谢语言特别由于.情况日本一种.
+
+Attachment Download (Reserved only to the specified date . Please download it in time.)
+1.  backend.zip    Reserved to 2 Mar 2020 GMT
+2.  5648215.jpg    Reserved to 2 Mar 2020 GMT
+2020-02-25 17:18:30,977 - framework - INFO - 写信页面的主题：Re:Re:张小红-重构版本-邮件发送测试-20200224.21.07.21
+2020-02-25 17:18:31,013 - framework - INFO - 写信页面的发件人：管理员<fttxtest@126.com>
+2020-02-25 17:18:31,097 - framework - INFO - 写信页面的邮件内容：------------------ Original Message------------------
+From: fttxtest<fttxtest@126.com>
+Date: 2020-02-25 16:39
+To: 管理员<fttx222@aliyun.com>
+Subject: Re:张小红-重构版本-邮件发送测试-20200224.21.07.21
+
+快速回复测试
+
+------------------ 原始邮件 ------------------
+发件人: 管理员
+发送时间: 2020-02-24 21:08
+收件人: 管理员
+主题: Re:张小红-重构版本-邮件发送测试-20200224.21.07.21
+
+论坛以及这是觉得可以.经济成为电话游戏社区企业完全.
+希望市场位置制作免费.用户联系汽车销售日本经济一次.名称要求论坛类型.
+直接影响经济是否.地区社会密码无法有限应用各种.品牌这样来自有关日期密码具有看到.
+回复经济方法还是世界谢谢.教育知道然后有限问题.
+你们数据一点工作投资.
+表示价格显示服务.的人很多对于社区当前.所有孩子能力根据次数学校.
+如此销售不要信息帖子.设计帖子系统学校浏览.
+------------------ Original Message------------------
+From: fttxtest<fttxtest@126.com>
+Date: 2020-02-24 21:07
+To: 管理员<fttx222@aliyun.com>
+Subject: 张小红-重构版本-邮件发送测试-20200224.21.07.21
+
+Item No.： P00000001
+Commodity：
+Packing：
+Carton Size： 0.0*0.0*0.0  CM
+Carton Quantity： 0
+Gross/Net Weight： 0.000/0.000  KG
+Supplying Price： USD 0.00
+Description：
+Comments：
+ 首页
+--
+ 功能感觉报告事情提供内容.基本更多一种.
+成为任何希望.文化基本美国.企业论坛出来公司所以等级网站.
+其中登录也是一种网络.以上具有提高不过.软件环境是否现在不断方式女人.
+推荐选择我们因此生产资源各种.进入有限类型过程如何.不断今年帮助.喜欢影响只是单位.
+电子增加社区其他不能制作.名称由于下载那个的话如此.
+正在单位密码作者记者.以下中文名称.
+本站这些谢谢语言特别由于.情况日本一种.
+
+Attachment Download (Reserved only to the specified date . Please download it in time.)
+1.  backend.zip    Reserved to 2 Mar 2020 GMT
+2.  5648215.jpg    Reserved to 2 Mar 2020 GMT
+2020-02-25 17:20:22,574 - framework - INFO - 群发单显的邮件主题是：夏军-群发单显测试-20200225.17.20.22
+2020-02-25 17:20:40,251 - framework - INFO - 主题是：夏军-群发单显测试-20200225.17.20.22的群发单显邮件，所有的发件人是：['fttx222@aliyun.com', 'zhongjie@hotmail.com', 'changmin@gmail.com', 'laijun@yahoo.com', 'fttx111@21cn.com']
+2020-02-25 17:20:40,374 - framework - INFO - 主题是：夏军-群发单显测试-20200225.17.20.22的群发单显邮件，所有的收件人是：['282450696@qq.com', 'fttx666@aliyun.com', 'fttxtest@163.com', 'fttxtest@21cn.com', 'fttxtest@sohu.com']
+2020-02-25 17:20:40,375 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.17.20.40-群发单显邮件，发件详情.png
+2020-02-25 17:22:31,075 - framework - INFO - 根据关键词：aliyun，联想的收件人：['fttx444<fttx444@aliyun.com>\n测试', 'fttx111<fttx111@aliyun.com>\nfttx111@aliyun.com', '管理员<fttx222@aliyun.com>\n总经办', '云基础<fttx333@aliyun.com>\n业务部', 'fttx666@aliyun.com', 'fttx888@aliyun.com']
+2020-02-25 17:23:22,568 - framework - INFO - 要删除的快速文本标题是：王玉兰快速文本测试，可删除
+2020-02-25 17:23:40,080 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 17:23:50,556 - framework - INFO - Message: 
+
+2020-02-25 17:23:51,118 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 17:23:51,847 - framework - INFO - fttx444@aliyun.com
+2020-02-25 17:23:59,038 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 17:24:09,632 - framework - INFO - Message: 
+
+2020-02-25 17:24:10,174 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 17:24:10,855 - framework - INFO - fttx444@aliyun.com
+2020-02-25 17:24:18,127 - framework - INFO - fttx444<fttx444@aliyun.com>
+2020-02-25 17:24:28,647 - framework - INFO - Message: 
+
+2020-02-25 17:24:28,700 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 17:24:29,415 - framework - INFO - fttx444@aliyun.com
+2020-02-25 17:24:36,315 - framework - INFO - fttx444<fttx444@aliyun.com>
+2020-02-25 17:24:46,790 - framework - INFO - Message: 
+
+2020-02-25 17:24:46,835 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 17:24:47,545 - framework - INFO - fttx444@aliyun.com
+2020-02-25 17:24:54,784 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 17:25:05,214 - framework - INFO - Message: 
+
+2020-02-25 17:25:05,259 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 17:25:05,939 - framework - INFO - fttx444@aliyun.com
+2020-02-25 17:25:13,108 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 17:25:23,576 - framework - INFO - Message: 
+
+2020-02-25 17:25:23,627 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 17:25:24,361 - framework - INFO - fttx444@aliyun.com
+2020-02-25 17:29:56,406 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 17:29:56,406 - framework - INFO - -----测试报告已发送-------
+2020-02-25 17:39:45,808 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 17:40:06,726 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 17:40:06,726 - framework - INFO - -----测试报告已发送-------
+2020-02-25 17:41:42,321 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 17:41:57,608 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 17:41:57,608 - framework - INFO - -----测试报告已发送-------
+2020-02-25 17:42:37,437 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 17:42:59,944 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 17:42:59,944 - framework - INFO - -----测试报告已发送-------
+2020-02-25 17:44:25,779 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 17:44:38,068 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.17.44.38-修改后的快速文本.png
+2020-02-25 17:44:39,782 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 17:44:39,783 - framework - INFO - -----测试报告已发送-------
+2020-02-25 17:47:04,730 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 17:47:33,028 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 17:47:33,028 - framework - INFO - -----测试报告已发送-------
+2020-02-25 17:49:28,902 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 17:49:40,976 - framework - INFO - fttx444<fttx444@aliyun.com>
+2020-02-25 17:49:51,409 - framework - INFO - Message: 
+
+2020-02-25 17:49:51,955 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 17:49:52,644 - framework - INFO - fttx444@aliyun.com
+2020-02-25 17:49:59,680 - framework - INFO - fttx444<fttx444@aliyun.com>
+2020-02-25 17:50:10,134 - framework - INFO - Message: 
+
+2020-02-25 17:50:10,688 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 17:50:11,372 - framework - INFO - fttx444@aliyun.com
+2020-02-25 17:50:18,558 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 17:50:29,006 - framework - INFO - Message: 
+
+2020-02-25 17:50:29,548 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 17:50:30,225 - framework - INFO - fttx444@aliyun.com
+2020-02-25 17:50:37,544 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 17:50:48,016 - framework - INFO - Message: 
+
+2020-02-25 17:50:48,566 - framework - INFO - ['fttx444<fttx444@aliyun.com>']
+2020-02-25 17:50:49,315 - framework - INFO - fttx444@aliyun.com
+2020-02-25 17:50:49,319 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 17:50:49,320 - framework - INFO - -----测试报告已发送-------
+2020-02-25 17:52:33,753 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 17:52:59,836 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200225.17.52.59-选中一个内部联系人.png
+2020-02-25 17:53:00,369 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 17:53:00,369 - framework - INFO - -----测试报告已发送-------
+2020-02-25 17:55:34,804 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 17:56:02,427 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 17:56:02,427 - framework - INFO - -----测试报告已发送-------
+2020-02-25 17:56:42,700 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 17:56:58,687 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 17:56:58,687 - framework - INFO - -----测试报告已发送-------
+2020-02-25 19:08:00,491 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 19:08:31,496 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 19:08:31,496 - framework - INFO - -----测试报告已发送-------
+2020-02-25 19:10:21,707 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 19:10:49,921 - framework - INFO - 根据关键词：aliyun，联想的收件人：['fttx444<fttx444@aliyun.com>\n测试', 'fttx111<fttx111@aliyun.com>\nfttx111@aliyun.com', '管理员<fttx222@aliyun.com>\n总经办', '云基础<fttx333@aliyun.com>\n业务部', 'fttx666@aliyun.com', 'fttx888@aliyun.com']
+2020-02-25 19:11:20,143 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 19:11:20,144 - framework - INFO - -----测试报告已发送-------
+2020-02-25 19:14:31,243 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 19:14:46,159 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 19:14:46,159 - framework - INFO - -----测试报告已发送-------
+2020-02-25 19:17:19,916 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 19:17:36,555 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 19:17:36,555 - framework - INFO - -----测试报告已发送-------
+2020-02-25 19:18:22,160 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 19:18:46,366 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 19:18:46,366 - framework - INFO - -----测试报告已发送-------
+2020-02-25 19:21:16,497 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 19:21:32,905 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 19:21:32,905 - framework - INFO - -----测试报告已发送-------
+2020-02-25 19:22:22,796 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 19:22:49,891 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 19:22:49,892 - framework - INFO - -----测试报告已发送-------
+2020-02-25 19:23:49,358 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 19:24:01,496 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 19:24:01,497 - framework - INFO - -----测试报告已发送-------
+2020-02-25 19:24:23,634 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 19:24:36,871 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 19:24:36,871 - framework - INFO - -----测试报告已发送-------
+2020-02-25 19:26:58,704 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 19:27:14,585 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 19:27:14,585 - framework - INFO - -----测试报告已发送-------
+2020-02-25 19:35:53,939 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 19:36:14,259 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 19:36:14,260 - framework - INFO - -----测试报告已发送-------
+2020-02-25 19:37:43,937 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 19:38:08,745 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 19:38:08,745 - framework - INFO - -----测试报告已发送-------
+2020-02-25 19:39:44,121 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-25 19:39:55,095 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-25 19:39:55,095 - framework - INFO - -----测试报告已发送-------

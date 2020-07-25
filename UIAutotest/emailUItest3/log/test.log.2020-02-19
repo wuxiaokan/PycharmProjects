@@ -1,0 +1,105 @@
+2020-02-18 21:01:21,132 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-18 21:01:40,226 - framework - INFO - 发送邮件"刘红梅收件规则测试-全部邮件20200218.21.01.39"成功! 收件人：fttx333@aliyun.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2020-02-18 21:06:43,249 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-18 21:06:43,249 - framework - INFO - -----测试报告已发送-------
+2020-02-18 21:44:19,671 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-18 21:44:38,297 - framework - INFO - 发送邮件"解桂花收件规则测试-全部邮件20200218.21.44.37"成功! 收件人：fttx333@aliyun.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2020-02-18 21:48:15,795 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-18 21:48:15,795 - framework - INFO - -----测试报告已发送-------
+2020-02-18 21:55:50,423 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-18 21:56:09,900 - framework - INFO - 发送邮件"王淑华收件规则测试-全部邮件20200218.21.56.09"成功! 收件人：fttx333@aliyun.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2020-02-18 21:59:45,743 - framework - INFO - 发送邮件"卢小红收件规则测试-老客户邮件20200218.21.59.45"成功! 收件人：fttx333@aliyun.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2020-02-18 22:03:41,019 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-18 22:03:41,019 - framework - INFO - -----测试报告已发送-------
+2020-02-18 22:08:58,753 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-18 22:09:36,393 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-18 22:09:36,393 - framework - INFO - -----测试报告已发送-------
+2020-02-18 22:13:49,142 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-18 22:14:09,030 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-18 22:14:28,203 - framework - ERROR - 用户名密码验证失败！(535, b'5.7.8 authentication failed')
+Traceback (most recent call last):
+  File "D:\job\testTeam\UIAutotest\emailUItest3\utils\mail.py", line 67, in send
+    smtp_server.login(self.sender, self.password)  # 登录
+  File "D:\Program Files\Python37\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "D:\Program Files\Python37\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "D:\Program Files\Python37\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 authentication failed')
+2020-02-18 22:14:28,236 - framework - INFO - 发送邮件"张桂芳收件规则测试-邮件主题20200218.22.14.27"成功! 收件人：fttx333@aliyun.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2020-02-18 22:16:26,063 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-18 22:16:45,168 - framework - INFO - 发送邮件"周平收件规则测试-邮件主题20200218.22.16.44"成功! 收件人：fttx333@aliyun.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2020-02-18 22:20:21,124 - framework - INFO - 发送邮件"申峰收件规则测试-发件地址20200218.22.20.20"成功! 收件人：fttx333@aliyun.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2020-02-18 22:23:51,803 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-18 22:23:51,803 - framework - INFO - -----测试报告已发送-------
+2020-02-19 12:22:07,881 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-19 12:22:26,059 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-19 12:22:26,059 - framework - INFO - -----测试报告已发送-------
+2020-02-19 12:23:02,758 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-19 12:24:09,812 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-19 12:24:09,812 - framework - INFO - -----测试报告已发送-------
+2020-02-19 12:55:13,636 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-19 12:55:50,256 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-19 12:55:50,256 - framework - INFO - -----测试报告已发送-------
+2020-02-19 12:56:29,278 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-19 12:56:45,838 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest3\images/20200219.12.56.45-('xpath', '//div[@x-placement="bottom-start" or @x-placement="top-start"]//span[text()="全部审批（强制）"]').png
+2020-02-19 12:57:07,897 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-19 12:57:07,897 - framework - INFO - -----测试报告已发送-------
+2020-02-19 12:59:00,993 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-19 12:59:17,744 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest3\images/20200219.12.59.17-('xpath', '//div[@x-placement="bottom-start" or @x-placement="top-start"]//span[text()="全部审批（强制）"]').png
+2020-02-19 12:59:23,026 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest3\images/20200219.12.59.23-('xpath', '//div[@x-placement="bottom-start" or @x-placement="top-start"]//span[text()="全部审批（可选）"]').png
+2020-02-19 12:59:27,924 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest3\images/20200219.12.59.27-('xpath', '//div[@x-placement="bottom-start" or @x-placement="top-start"]//span[text()="邮件主题"]').png
+2020-02-19 12:59:30,024 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-19 12:59:30,024 - framework - INFO - -----测试报告已发送-------
+2020-02-19 20:31:45,783 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-19 20:32:02,723 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest3\images/20200219.20.32.02-('xpath', '//div[@x-placement="bottom-start" or @x-placement="top-start"]//span[text()="全部审批（强制）"]').png
+2020-02-19 20:32:07,680 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest3\images/20200219.20.32.07-('xpath', '//div[@x-placement="bottom-start" or @x-placement="top-start"]//span[text()="全部审批（可选）"]').png
+2020-02-19 20:32:12,308 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest3\images/20200219.20.32.12-('xpath', '//div[@x-placement="bottom-start" or @x-placement="top-start"]//span[text()="邮件主题"]').png
+2020-02-19 20:32:15,121 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-19 20:32:15,121 - framework - INFO - -----测试报告已发送-------
+2020-02-19 20:34:29,503 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-19 20:34:46,329 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest3\images/20200219.20.34.46-('xpath', '//div[@x-placement="bottom-start" or @x-placement="top-start"]//span[text()="全部审批（强制）"]').png
+2020-02-19 20:34:51,623 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest3\images/20200219.20.34.51-('xpath', '//div[@x-placement="bottom-start" or @x-placement="top-start"]//span[text()="全部审批（可选）"]').png
+2020-02-19 20:34:56,544 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest3\images/20200219.20.34.56-('xpath', '//div[@x-placement="bottom-start" or @x-placement="top-start"]//span[text()="邮件主题"]').png
+2020-02-19 20:34:59,203 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-19 20:34:59,203 - framework - INFO - -----测试报告已发送-------
+2020-02-19 20:36:10,455 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-19 20:36:34,856 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-19 20:36:34,856 - framework - INFO - -----测试报告已发送-------
+2020-02-19 20:38:31,111 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-19 20:38:47,107 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-19 20:38:47,107 - framework - INFO - -----测试报告已发送-------
+2020-02-19 20:41:08,652 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-19 20:41:25,344 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest3\images/20200219.20.41.25-('xpath', '//div[@x-placement="bottom-start" or @x-placement="top-start"]//span[text()="全部审批（强制）"]').png
+2020-02-19 20:41:26,183 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-19 20:41:26,183 - framework - INFO - -----测试报告已发送-------
+2020-02-19 20:41:59,279 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-19 20:42:16,664 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest3\images/20200219.20.42.16-('xpath', '//div[@x-placement="bottom-start" or @x-placement="top-start"]//span[text()="全部审批（强制）"]').png
+2020-02-19 20:42:17,499 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-19 20:42:17,499 - framework - INFO - -----测试报告已发送-------
+2020-02-19 20:43:43,279 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-19 20:44:01,172 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest3\images/20200219.20.44.01-('xpath', '//div[@x-placement="bottom-start" or @x-placement="top-start"]//span[text()="全部审批（强制）"]').png
+2020-02-19 20:44:02,024 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-19 20:44:02,024 - framework - INFO - -----测试报告已发送-------
+2020-02-19 20:44:28,689 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-19 20:44:46,448 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest3\images/20200219.20.44.46-('xpath', '//div[@x-placement="bottom-start" or @x-placement="top-start"]//span[text()="全部审批（可选）"]').png
+2020-02-19 20:44:47,271 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-19 20:44:47,272 - framework - INFO - -----测试报告已发送-------
+2020-02-19 20:47:06,483 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-19 20:47:22,499 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest3\images/20200219.20.47.22-('xpath', '//div[@x-placement="bottom-start" or @x-placement="top-start"]//span[text()="全部审批（可选）"]').png
+2020-02-19 20:47:23,276 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-19 20:47:23,276 - framework - INFO - -----测试报告已发送-------
+2020-02-19 20:47:56,289 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-19 20:48:12,430 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest3\images/20200219.20.48.12-('xpath', '//div[@x-placement="bottom-start" or @x-placement="top-start"]//span[text()="全部审批（可选）"]').png
+2020-02-19 20:48:13,262 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-19 20:48:13,262 - framework - INFO - -----测试报告已发送-------
+2020-02-19 21:05:49,384 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-19 21:06:05,473 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest3\images/20200219.21.06.05-('xpath', '//div[@x-placement="bottom-start" or @x-placement="top-start"]//span[text()="全部审批（可选）"]').png
+2020-02-19 21:06:11,476 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-19 21:06:11,476 - framework - INFO - -----测试报告已发送-------
+2020-02-19 21:24:46,726 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-19 21:25:03,210 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest3\images/20200219.21.25.03-('xpath', '//div[@x-placement="bottom-start" or @x-placement="top-start"]//span[text()="全部审批（可选）"]').png
+2020-02-19 21:25:25,686 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest3\images/20200219.21.25.25-('xpath', '//div[@x-placement="bottom-start" or @x-placement="top-start"]//span[text()="全部审批（可选）"]').png
+2020-02-19 21:25:45,393 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-19 21:25:45,393 - framework - INFO - -----测试报告已发送-------

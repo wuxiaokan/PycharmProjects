@@ -1,0 +1,13 @@
+log:
+    file_name: test.log
+    backup: 5
+    console_level: WARNING
+    file_level: DEBUG
+    pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+
+ip: 127.0.0.1
+port: 8080
+
+ali_dev_url: https://ceshilogin.joinf.com/login?service=https%3A%2F%2Fceshi.joinf.com%2Femail%2Findex
+hw_dev_url: https://rdc.joinf.com/login?service=https%3A%2F%2Fcrm.rdc.joinf.com%2Femail%2FmanageEmail
+pro_url: https://cloud.joinf.com/login?service=https%3A%2F%2Ftrade.joinf.com%2Femail%2FmanageEmail

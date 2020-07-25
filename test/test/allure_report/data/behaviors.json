@@ -1,0 +1,85 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "epic对大Story的一个描述性标签",
+    "children" : [ {
+      "name" : "测试模块",
+      "children" : [ {
+        "name" : "用户故事：1",
+        "children" : [ {
+          "name" : "用例的标题",
+          "uid" : "1c7931a5c1e13c25",
+          "parentUid" : "bd1cbb882222cfb82453bca47efd98f5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591773110414,
+            "stop" : 1591773110415,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "bd1cbb882222cfb82453bca47efd98f5"
+      }, {
+        "name" : "用户故事：2",
+        "children" : [ {
+          "name" : "test_case_2",
+          "uid" : "cf0a0a2af3fdf2b4",
+          "parentUid" : "b5d0686ba9c235d701b6ddad5ed11c21",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591773110418,
+            "stop" : 1591773110419,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b5d0686ba9c235d701b6ddad5ed11c21"
+      } ],
+      "uid" : "aed46829503d63829a8f5d59384393b9"
+    }, {
+      "name" : "模块2",
+      "children" : [ {
+        "name" : "用户故事：3",
+        "children" : [ {
+          "name" : "test_case_3",
+          "uid" : "ef80a4c7178ce269",
+          "parentUid" : "1ebc17075cf0cefc3c9ed0b540182cce",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591773110423,
+            "stop" : 1591773110423,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1ebc17075cf0cefc3c9ed0b540182cce"
+      }, {
+        "name" : "用户故事：4",
+        "children" : [ {
+          "name" : "test_case_4",
+          "uid" : "6ad4ad9fa5efa350",
+          "parentUid" : "4261914d6823f679481c8f67773e21d2",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591773110428,
+            "stop" : 1591773110429,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4261914d6823f679481c8f67773e21d2"
+      } ],
+      "uid" : "3056c62a8fb6a9d1725a210444cfe1d1"
+    } ],
+    "uid" : "4146ca5fc46ad2ea0d9d63e9c1c442ac"
+  } ]
+}

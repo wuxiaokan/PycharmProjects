@@ -1,0 +1,207 @@
+2020-02-18 18:34:10,524 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-18 18:38:09,239 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200218.18.38.09-hiitboy@aliyun.com账号的截图.png
+2020-02-18 18:38:17,536 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200218.18.38.17-fttxtest<fttxtest@163.com>账号的截图.png
+2020-02-18 18:38:25,588 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200218.18.38.25-fttxtest@sohu.com账号的截图.png
+2020-02-18 18:38:33,680 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200218.18.38.33-yiming@hotmail.com账号的截图.png
+2020-02-18 18:38:42,203 - framework - INFO - Re:熊志强测试，勿动
+2020-02-18 18:38:44,089 - framework - INFO - iNcpR2e6id.jpg
+2020-02-18 18:38:50,984 - framework - INFO - Re:熊志强测试，勿动
+2020-02-18 18:38:52,185 - framework - INFO - iNcpR2e6id.jpg
+2020-02-18 18:38:59,815 - framework - INFO - Re:熊志强测试，勿动
+2020-02-18 18:39:09,207 - framework - INFO - Re:熊志强测试，勿动
+2020-02-18 18:39:28,036 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200218.18.39.28-跟进页面打开.png
+2020-02-18 18:39:29,671 - framework - INFO - 要设置的跟进阶段是：签订协议
+2020-02-18 18:39:31,858 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200218.18.39.31-跟进页面打开.png
+2020-02-18 18:39:32,436 - framework - INFO - 实际上获取的跟进阶段是：签订协议
+2020-02-18 18:39:38,423 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200218.18.39.38-跟进页面打开.png
+2020-02-18 18:39:38,928 - framework - INFO - 跟进页面上的客户联系人邮箱是：测试1<282450696@qq.com>
+2020-02-18 18:39:40,263 - framework - INFO - 由跟进页面点击发邮件icon后，带到写信页面的收件人是：测试1<282450696@qq.com>
+2020-02-18 18:39:47,531 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200218.18.39.47-跟进页面打开.png
+2020-02-18 18:39:54,230 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200218.18.39.54-跟进页面打开.png
+2020-02-18 18:40:54,079 - framework - INFO - 50
+2020-02-18 18:40:55,868 - framework - INFO - 详情里面的主题：炒股被套，炒原油血本无归，试试微交易，100元起投资，收益可达85%.
+2020-02-18 18:40:55,911 - framework - INFO - 详情里面的发件人：2016做什么赚钱<admin@system.mail>
+2020-02-18 18:40:56,960 - framework - INFO - 1
+2020-02-18 18:40:56,983 - framework - INFO - 邮件详情：炒股被套，炒原油沥青血本无归，试试微交易，100元起投资，收益可达 85元。 T+0, 第三方银行托管。
+
+微交易是什么:
+1，是通过微信进行操作的股票。
+2，可以买涨买跌，T+0，一天18小时交易。
+3，门槛低，100元即可投资，收益大，100元，可以赚取85。
+4，第三方银行资金托管，安全。安全。安全。
+
+
+请关注微信公众号： renrenwjy ，开启您的投资之路。
+请关注微信公众号： renrenwjy ，开启您的投资之路。
+请关注微信公众号： renrenwjy ，开启您的投资之路。
+请关注微信公众号： renrenwjy ，开启您的投资之路。
+
+
+
+任何问题请联系您的 专属客服QQ: 382430043
+任何问题请联系您的 专属客服QQ: 382430043
+2020-02-18 18:40:58,750 - framework - INFO - 写信页面的主题：
+2020-02-18 18:40:59,447 - framework - INFO - 写信页面的发件人：admin<admin@system.mail>
+2020-02-18 18:40:59,531 - framework - INFO - 写信页面的邮件内容：
+2020-02-18 18:42:26,854 - framework - INFO - 群发单显的邮件主题是：方桂兰-群发单显测试-20200218.18.42.26
+2020-02-18 18:42:44,371 - framework - INFO - 主题是：方桂兰-群发单显测试-20200218.18.42.26的群发单显邮件，所有的发件人是：['hiitboy@21cn.com', 'hiitboy@aliyun.com', 'fttxtest@163.com', 'fttxtest@sohu.com', 'hiitboy2@tom.com']
+2020-02-18 18:42:44,536 - framework - INFO - 主题是：方桂兰-群发单显测试-20200218.18.42.26的群发单显邮件，所有的收件人是：['282450696@qq.com', 'fttx666@aliyun.com', 'fttxtest@163.com', 'fttxtest@21cn.com', 'fttxtest@sohu.com']
+2020-02-18 18:42:44,536 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200218.18.42.44-群发单显邮件，发件详情.png
+2020-02-18 18:44:10,760 - framework - INFO - 根据关键词：678，联想的收件人：['beyond1<123456789@qq.com>\n光辉岁月1', 'Contact name1678<contact1678@email.com>\nFutong', '打算<4567891@qq.com>\n法法', 'gfg<4567892@qq.com>\n法法', 'rwe<4567893@qq.com>\n法法', 'gsg<4567894@qq.com>\n法法', 'gsdg<4567895@qq.com>\n法法', 'sdsf<4567896@qq.com>\n法法', 'gfsrew<4567897@qq.com>\n法法', 'ffaf<4567898@qq.com>\n法法', 'faf<4567899@qq.com>\n法法', 'qeq<45678910@qq.com>\n法法', '冰可乐1<4678879486533@2111564.com>\n奶茶', '12345678910@204.com', '1519652678@qq.com', '1829678798@qq.com', '2850367866@qq.com', '465456787@qq.com', 'member@fx678.cn', 'qq1678184445@360.com']
+2020-02-18 18:44:17,539 - framework - INFO - 根据关键词：aliyun，联想的收件人：['Linda<lindazyn@aliyun.com>\nashgoldhotel', 'hxw13197057905<jiang11564201702@aliyun.com;hxw13197057905@aliyun.com>\nFutong', 'jiang1156420170<jiang1156420170@aliyun.com>\njiang1156420170@aliyun.com', '张亮<FENGFANGYUAN@ALIYUN.COM>\n财务部', '转看看就<hiitboy@aliyun.com>\n总经办', '十里桃<hiitboy@aliyun.com>\n总经办', '小小<fttx666@aliyun.com>\n业务部', '小小<fttx888@aliyun.com>\n业务部', 'asd33315@aliyun.com', 'directmail@notice.aliyun.com', 'fttx111@aliyun.com', 'fttx888@aliyun.co', 'hiiboy@aliyun.com', 'hzchengzi@aliyun.com', 'jiang11564201701@aliyun.com', 'jiang11564201704@aliyun.com', 'jiang11564201705@aliyun.com', 'jiang11564201707@aliyun.com', 'jiang11564201708@aliyun.com', 'jiang11564201709@aliyun.com', 'jiang1156420170@aliyun.com', 'jzc1156420170@aliyun.com', 'k72v4ps4n@aliyun.com', 'lhl2431780785@aliyun.com', 'lichaoli888@aliyun.com', 'm852852@aliyun.com', 'm963963963@aliyun.com', 'mengxy970902@aliyun.com']
+2020-02-18 18:44:23,412 - framework - INFO - 根据关键词：a8，联想的收件人：['Ben Yeoh<hua831128@hotmail.com>\nBen Jo Trading', 'Harley rapana<harlz.rapana88@gmail.com>\nHarley rapana']
+2020-02-18 18:44:29,579 - framework - INFO - 根据关键词：客户，联想的收件人：['测<3131313@qq.com>\n客户简称', 'eeee<3222@126.cp>\n共享客户', '测试<454215656@qq.com>\n今天刚新增的客户', '李嘉诚<ljc@126.com>\n客户添加测试', '马化腾<mht1@qq.com>\n客户重新编辑自动化测试', '测试客户联系人信息<test1234004@163.com>\n测是客户联系人', '我<cuichuanlei2008@126.com>\n测是客户联系人']
+2020-02-18 18:44:35,276 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200218.18.44.35-修改后的快速文本.png
+2020-02-18 18:44:42,895 - framework - INFO - 要删除的快速文本标题是：李淑英测试，可删除
+2020-02-18 18:44:49,863 - framework - INFO - 12334<122345@qw.com>
+2020-02-18 18:45:00,401 - framework - INFO - Message: 
+
+2020-02-18 18:45:00,993 - framework - INFO - ['12334<122345@qw.com>']
+2020-02-18 18:45:01,702 - framework - INFO - 122345@qw.com
+2020-02-18 18:45:09,267 - framework - INFO - 12334<122345@qw.com>
+2020-02-18 18:45:19,795 - framework - INFO - Message: 
+
+2020-02-18 18:45:20,380 - framework - INFO - ['12334<122345@qw.com>']
+2020-02-18 18:45:21,095 - framework - INFO - 122345@qw.com
+2020-02-18 18:45:28,812 - framework - INFO - ['pg<pg@sina.com>', '김민재 대리님<SAA@qq.com;45444@qw.com;6765@qq.com>', '12334<122345@qw.com>', '282450696<282450696@qq.com>', '282450696<282450696@qq.com>', '赵贺强<65453465@qq.com>', '赵贺强<65453465@qq.com>', '大大大<healthyukm@163.com>', '暗示<-->', '暗示<-->']
+2020-02-18 18:45:50,649 - framework - INFO - ['pg<pg@sina.com>', '김민재 대리님<SAA@qq.com>', '김민재 대리님<45444@qw.com>', '김민재 대리님<6765@qq.com>', '12334<122345@qw.com>', '测试1<282450696@qq.com>', '赵贺强<65453465@qq.com>', '大大大<healthyukm@163.com>']
+2020-02-18 18:45:51,392 - framework - INFO - pg@sina.com
+2020-02-18 18:45:58,955 - framework - INFO - ['pg<pg@sina.com>', '김민재 대리님<SAA@qq.com;45444@qw.com;6765@qq.com>', '12334<122345@qw.com>', '282450696<282450696@qq.com>', '282450696<282450696@qq.com>', '赵贺强<65453465@qq.com>', '赵贺强<65453465@qq.com>', '大大大<healthyukm@163.com>', '暗示<-->', '暗示<-->']
+2020-02-18 18:46:10,420 - framework - INFO - ['pg<pg@sina.com>', '김민재 대리님<SAA@qq.com>', '김민재 대리님<45444@qw.com>', '김민재 대리님<6765@qq.com>', '12334<122345@qw.com>', '测试1<282450696@qq.com>', '赵贺强<65453465@qq.com>', '大大大<healthyukm@163.com>']
+2020-02-18 18:46:11,134 - framework - INFO - pg@sina.com
+2020-02-18 18:46:18,792 - framework - INFO - 8000<jeff@sivallc.com>
+2020-02-18 18:46:29,296 - framework - INFO - Message: 
+
+2020-02-18 18:46:29,377 - framework - INFO - ['8000<jeff@sivallc.com>']
+2020-02-18 18:46:30,076 - framework - INFO - jeff@sivallc.com
+2020-02-18 18:46:37,766 - framework - INFO - 8000<jeff@sivallc.com>
+2020-02-18 18:46:48,368 - framework - INFO - Message: 
+
+2020-02-18 18:46:48,443 - framework - INFO - ['8000<jeff@sivallc.com>']
+2020-02-18 18:46:49,132 - framework - INFO - jeff@sivallc.com
+2020-02-18 18:46:57,336 - framework - INFO - ['8000<jeff@sivallc.com>', '김민재 대리님<SAA@qq.com;45444@qw.com;6765@qq.com>', '测试3<282450698@qq.com>', '赵贺强<654534684@qq.com>', '赵贺强<654534684@qq.com>', '测试1<282450696@qq.com>', '测试1<282450696@qq.com>', '测试1<282450696@qq.com>', '订单<1156420170@qq.com>', '订单<1156420170@qq.com>']
+2020-02-18 18:47:23,529 - framework - INFO - ['8000<jeff@sivallc.com>', '김민재 대리님<SAA@qq.com>', '김민재 대리님<45444@qw.com>', '김민재 대리님<6765@qq.com>', '测试3<282450698@qq.com>', '赵贺强<654534684@qq.com>', '测试1<282450696@qq.com>', '1156420170<1156420170@qq.com>']
+2020-02-18 18:47:24,292 - framework - INFO - jeff@sivallc.com
+2020-02-18 18:47:31,961 - framework - INFO - ['8000<jeff@sivallc.com>', '김민재 대리님<SAA@qq.com;45444@qw.com;6765@qq.com>', '测试3<282450698@qq.com>', '赵贺强<654534684@qq.com>', '赵贺强<654534684@qq.com>', '测试1<282450696@qq.com>', '测试1<282450696@qq.com>', '测试1<282450696@qq.com>', '订单<1156420170@qq.com>', '订单<1156420170@qq.com>']
+2020-02-18 18:47:42,769 - framework - INFO - ['8000<jeff@sivallc.com>', '김민재 대리님<SAA@qq.com>', '김민재 대리님<45444@qw.com>', '김민재 대리님<6765@qq.com>', '测试3<282450698@qq.com>', '赵贺强<654534684@qq.com>', '测试1<282450696@qq.com>', '1156420170<1156420170@qq.com>']
+2020-02-18 18:47:43,488 - framework - INFO - jeff@sivallc.com
+2020-02-18 18:50:50,049 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-18 18:50:50,049 - framework - INFO - -----测试报告已发送-------
+2020-02-19 17:31:13,803 - framework - INFO - 用例开始执行```````````````````````````
+2020-02-19 17:35:16,839 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200219.17.35.16-hiitboy@aliyun.com账号的截图.png
+2020-02-19 17:35:24,702 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200219.17.35.24-fttxtest<fttxtest@163.com>账号的截图.png
+2020-02-19 17:35:32,579 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200219.17.35.32-fttxtest@sohu.com账号的截图.png
+2020-02-19 17:35:40,396 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200219.17.35.40-yiming@hotmail.com账号的截图.png
+2020-02-19 17:35:48,743 - framework - INFO - Re:熊志强测试，勿动
+2020-02-19 17:35:50,012 - framework - INFO - iNcpR2e6id.jpg
+2020-02-19 17:35:57,161 - framework - INFO - Re:熊志强测试，勿动
+2020-02-19 17:35:58,382 - framework - INFO - iNcpR2e6id.jpg
+2020-02-19 17:36:06,081 - framework - INFO - Re:熊志强测试，勿动
+2020-02-19 17:36:14,967 - framework - INFO - Re:熊志强测试，勿动
+2020-02-19 17:36:30,483 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200219.17.36.30-跟进页面打开.png
+2020-02-19 17:36:37,924 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200219.17.36.37-跟进页面打开.png
+2020-02-19 17:36:38,590 - framework - INFO - 跟进页面上的客户联系人邮箱是：新数据<932539771@qq.com>
+2020-02-19 17:36:39,793 - framework - INFO - 由跟进页面点击发邮件icon后，带到写信页面的收件人是：新数据<932539771@qq.com>
+2020-02-19 17:36:50,983 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200219.17.36.50-跟进页面打开.png
+2020-02-19 17:37:19,407 - framework - INFO - 50
+2020-02-19 17:37:32,059 - framework - INFO - 50
+2020-02-19 17:37:33,873 - framework - INFO - 详情里面的主题：炒股被套，炒原油血本无归，试试微交易，100元起投资，收益可达85%.
+2020-02-19 17:37:33,912 - framework - INFO - 详情里面的发件人：2016做什么赚钱<admin@system.mail>
+2020-02-19 17:37:34,964 - framework - INFO - 1
+2020-02-19 17:37:34,985 - framework - INFO - 邮件详情：炒股被套，炒原油沥青血本无归，试试微交易，100元起投资，收益可达 85元。 T+0, 第三方银行托管。
+
+微交易是什么:
+1，是通过微信进行操作的股票。
+2，可以买涨买跌，T+0，一天18小时交易。
+3，门槛低，100元即可投资，收益大，100元，可以赚取85。
+4，第三方银行资金托管，安全。安全。安全。
+
+
+请关注微信公众号： renrenwjy ，开启您的投资之路。
+请关注微信公众号： renrenwjy ，开启您的投资之路。
+请关注微信公众号： renrenwjy ，开启您的投资之路。
+请关注微信公众号： renrenwjy ，开启您的投资之路。
+
+
+
+任何问题请联系您的 专属客服QQ: 382430043
+任何问题请联系您的 专属客服QQ: 382430043
+2020-02-19 17:37:36,783 - framework - INFO - 写信页面的主题：Re:炒股被套，炒原油血本无归，试试微交易，100元起投资，收益可达85%.
+2020-02-19 17:37:37,017 - framework - INFO - 写信页面的发件人：admin<admin@system.mail>
+2020-02-19 17:37:37,152 - framework - INFO - 写信页面的邮件内容：看到非常电子用户.新闻名称来自参加他的类别到了.
+那个历史什么操作工程.能力没有深圳规定的人处理.这种虽然日本一次出来详细也是.
+游戏无法到了资源.环境一直是否.深圳出来关于空间类别.
+地址能够包括汽车报告主题很多.自己觉得为什.一点情况状态关于密码.
+市场重要她的查看电脑信息.生产有限表示精华.
+管理活动介绍任何.网站游戏全国广告还有.
+说明美国登录法律.科技说明论坛单位历史然后这些.
+
+------------------ Original Message------------------
+From: 2016做什么赚钱<admin@system.mail>
+Date: 2022-05-26 17:30
+To: zj2otesay97ep@kurwjputmyhyxzjwoa.org<zj2otesay97ep@kurwjputmyhyxzjwoa.org>,1079967069@qq.com<1079967069@qq.com>,bpotts@oro.net<bpotts@oro.net>,azywjp@alis.de<azywjp@alis.de>,bounce-323414-16296@lyris.cof.org<bounce-323414-16296@lyris.cof.org>,kkhobest@yahoo.com.hk<kkhobest@yahoo.com.hk>,angel564335122@163.com<angel564335122@163.com>,chen.lishen@163.com<chen.lishen@163.com>,dearxiaoshuo1015@163.com<dearxiaoshuo1015@163.com>
+Subject: 炒股被套，炒原油血本无归，试试微交易，100元起投资，收益可达85%.
+
+
+炒股被套，炒原油沥青血本无归，试试微交易，100元起投资，收益可达 85元。 T+0, 第三方银行托管。
+
+微交易是什么:
+1，是通过微信进行操作的股票。
+2，可以买涨买跌，T+0，一天18小时交易。
+3，门槛低，100元即可投资，收益大，100元，可以赚取85。
+4，第三方银行资金托管，安全。安全。安全。
+
+
+请关注微信公众号： renrenwjy ，开启您的投资之路。
+请关注微信公众号： renrenwjy ，开启您的投资之路。
+请关注微信公众号： renrenwjy ，开启您的投资之路。
+请关注微信公众号： renrenwjy ，开启您的投资之路。
+
+
+
+任何问题请联系您的 专属客服QQ: 382430043
+任何问题请联系您的 专属客服QQ: 382430043
+2020-02-19 17:39:02,115 - framework - INFO - 群发单显的邮件主题是：陈雷-群发单显测试-20200219.17.39.02
+2020-02-19 17:39:14,605 - framework - INFO - 主题是：陈雷-群发单显测试-20200219.17.39.02的群发单显邮件，所有的发件人是：['hiitboy@21cn.com', 'hiitboy@aliyun.com', 'fttxtest@163.com', 'fttxtest@sohu.com', 'hiitboy2@tom.com']
+2020-02-19 17:39:14,743 - framework - INFO - 主题是：陈雷-群发单显测试-20200219.17.39.02的群发单显邮件，所有的收件人是：['282450696@qq.com', 'fttx666@aliyun.com', 'fttxtest@163.com', 'fttxtest@21cn.com', 'fttxtest@sohu.com']
+2020-02-19 17:39:14,743 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200219.17.39.14-群发单显邮件，发件详情.png
+2020-02-19 17:40:43,179 - framework - INFO - 根据关键词：678，联想的收件人：['beyond1<123456789@qq.com>\n光辉岁月1', 'Contact name1678<contact1678@email.com>\nFutong', '打算<4567891@qq.com>\n法法', 'gfg<4567892@qq.com>\n法法', 'rwe<4567893@qq.com>\n法法', 'gsg<4567894@qq.com>\n法法', 'gsdg<4567895@qq.com>\n法法', 'sdsf<4567896@qq.com>\n法法', 'gfsrew<4567897@qq.com>\n法法', 'ffaf<4567898@qq.com>\n法法', 'faf<4567899@qq.com>\n法法', 'qeq<45678910@qq.com>\n法法', '冰可乐1<4678879486533@2111564.com>\n奶茶', '12345678910@204.com', '1519652678@qq.com', '1829678798@qq.com', '2850367866@qq.com', '465456787@qq.com', 'member@fx678.cn', 'qq1678184445@360.com']
+2020-02-19 17:40:49,784 - framework - INFO - 根据关键词：aliyun，联想的收件人：['Linda<lindazyn@aliyun.com>\nashgoldhotel', 'hxw13197057905<jiang11564201702@aliyun.com;hxw13197057905@aliyun.com>\nFutong', 'jiang1156420170<jiang1156420170@aliyun.com>\njiang1156420170@aliyun.com', '张亮<FENGFANGYUAN@ALIYUN.COM>\n财务部', '转看看就<hiitboy@aliyun.com>\n总经办', '十里桃<hiitboy@aliyun.com>\n总经办', '小小<fttx666@aliyun.com>\n业务部', '小小<fttx888@aliyun.com>\n业务部', 'asd33315@aliyun.com', 'directmail@notice.aliyun.com', 'fttx111@aliyun.com', 'fttx888@aliyun.co', 'hiiboy@aliyun.com', 'hzchengzi@aliyun.com', 'jiang11564201701@aliyun.com', 'jiang11564201704@aliyun.com', 'jiang11564201705@aliyun.com', 'jiang11564201707@aliyun.com', 'jiang11564201708@aliyun.com', 'jiang11564201709@aliyun.com', 'jiang1156420170@aliyun.com', 'jzc1156420170@aliyun.com', 'k72v4ps4n@aliyun.com', 'lhl2431780785@aliyun.com', 'lichaoli888@aliyun.com', 'm852852@aliyun.com', 'm963963963@aliyun.com', 'mengxy970902@aliyun.com']
+2020-02-19 17:40:55,828 - framework - INFO - 根据关键词：a8，联想的收件人：['Ben Yeoh<hua831128@hotmail.com>\nBen Jo Trading', 'Harley rapana<harlz.rapana88@gmail.com>\nHarley rapana']
+2020-02-19 17:41:01,935 - framework - INFO - 根据关键词：客户，联想的收件人：['测<3131313@qq.com>\n客户简称', 'eeee<3222@126.cp>\n共享客户', '测试<454215656@qq.com>\n今天刚新增的客户', '李嘉诚<ljc@126.com>\n客户添加测试', '马化腾<mht1@qq.com>\n客户重新编辑自动化测试', '测试客户联系人信息<test1234004@163.com>\n测是客户联系人', '我<cuichuanlei2008@126.com>\n测是客户联系人']
+2020-02-19 17:41:07,508 - framework - INFO - 保存的图片：D:\job\testTeam\UIAutotest\emailUItest2\images/20200219.17.41.07-修改后的快速文本.png
+2020-02-19 17:41:14,368 - framework - INFO - 要删除的快速文本标题是：杨桂兰测试
+2020-02-19 17:41:20,912 - framework - INFO - 12334<122345@qw.com>
+2020-02-19 17:41:31,476 - framework - INFO - Message: 
+
+2020-02-19 17:41:32,059 - framework - INFO - ['12334<122345@qw.com>']
+2020-02-19 17:41:32,756 - framework - INFO - 122345@qw.com
+2020-02-19 17:41:40,400 - framework - INFO - 12334<122345@qw.com>
+2020-02-19 17:41:51,219 - framework - INFO - Message: 
+
+2020-02-19 17:41:51,806 - framework - INFO - ['12334<122345@qw.com>']
+2020-02-19 17:41:52,503 - framework - INFO - 122345@qw.com
+2020-02-19 17:42:00,353 - framework - INFO - ['pg<pg@sina.com>', '김민재 대리님<SAA@qq.com;45444@qw.com;6765@qq.com>', '12334<122345@qw.com>', '282450696<282450696@qq.com>', '282450696<282450696@qq.com>', '赵贺强<65453465@qq.com>', '赵贺强<65453465@qq.com>', '大大大<healthyukm@163.com>', '暗示<-->', '暗示<-->']
+2020-02-19 17:42:22,169 - framework - INFO - ['pg<pg@sina.com>', '김민재 대리님<SAA@qq.com>', '김민재 대리님<45444@qw.com>', '김민재 대리님<6765@qq.com>', '12334<122345@qw.com>', '测试1<282450696@qq.com>', '赵贺强<65453465@qq.com>', '大大大<healthyukm@163.com>']
+2020-02-19 17:42:22,871 - framework - INFO - pg@sina.com
+2020-02-19 17:42:30,503 - framework - INFO - ['pg<pg@sina.com>', '김민재 대리님<SAA@qq.com;45444@qw.com;6765@qq.com>', '12334<122345@qw.com>', '282450696<282450696@qq.com>', '282450696<282450696@qq.com>', '赵贺强<65453465@qq.com>', '赵贺强<65453465@qq.com>', '大大大<healthyukm@163.com>', '暗示<-->', '暗示<-->']
+2020-02-19 17:42:40,136 - framework - INFO - ['pg<pg@sina.com>', '김민재 대리님<SAA@qq.com>', '김민재 대리님<45444@qw.com>', '김민재 대리님<6765@qq.com>', '12334<122345@qw.com>', '测试1<282450696@qq.com>', '赵贺强<65453465@qq.com>', '大大大<healthyukm@163.com>']
+2020-02-19 17:42:40,851 - framework - INFO - pg@sina.com
+2020-02-19 17:42:48,407 - framework - INFO - 8000<jeff@sivallc.com>
+2020-02-19 17:42:59,006 - framework - INFO - Message: 
+
+2020-02-19 17:42:59,079 - framework - INFO - ['8000<jeff@sivallc.com>']
+2020-02-19 17:42:59,767 - framework - INFO - jeff@sivallc.com
+2020-02-19 17:43:07,643 - framework - INFO - 8000<jeff@sivallc.com>
+2020-02-19 17:43:18,198 - framework - INFO - Message: 
+
+2020-02-19 17:43:18,276 - framework - INFO - ['8000<jeff@sivallc.com>']
+2020-02-19 17:43:18,990 - framework - INFO - jeff@sivallc.com
+2020-02-19 17:43:26,860 - framework - INFO - ['8000<jeff@sivallc.com>', '김민재 대리님<SAA@qq.com;45444@qw.com;6765@qq.com>', '测试3<282450698@qq.com>', '赵贺强<654534684@qq.com>', '赵贺强<654534684@qq.com>', '测试1<282450696@qq.com>', '测试1<282450696@qq.com>', '测试1<282450696@qq.com>', '订单<1156420170@qq.com>', '订单<1156420170@qq.com>']
+2020-02-19 17:43:47,779 - framework - INFO - ['8000<jeff@sivallc.com>', '김민재 대리님<SAA@qq.com>', '김민재 대리님<45444@qw.com>', '김민재 대리님<6765@qq.com>', '测试3<282450698@qq.com>', '赵贺强<654534684@qq.com>', '测试1<282450696@qq.com>', '1156420170<1156420170@qq.com>']
+2020-02-19 17:43:48,576 - framework - INFO - jeff@sivallc.com
+2020-02-19 17:43:56,125 - framework - INFO - ['8000<jeff@sivallc.com>', '김민재 대리님<SAA@qq.com;45444@qw.com;6765@qq.com>', '测试3<282450698@qq.com>', '赵贺强<654534684@qq.com>', '赵贺强<654534684@qq.com>', '测试1<282450696@qq.com>', '测试1<282450696@qq.com>', '测试1<282450696@qq.com>', '订单<1156420170@qq.com>', '订单<1156420170@qq.com>']
+2020-02-19 17:44:09,319 - framework - INFO - ['8000<jeff@sivallc.com>', '김민재 대리님<SAA@qq.com>', '김민재 대리님<45444@qw.com>', '김민재 대리님<6765@qq.com>', '测试3<282450698@qq.com>', '赵贺强<654534684@qq.com>', '测试1<282450696@qq.com>', '1156420170<1156420170@qq.com>']
+2020-02-19 17:44:10,029 - framework - INFO - jeff@sivallc.com
+2020-02-19 17:47:16,015 - framework - INFO - yield·······用例全部执行完毕```````````````````````````
+2020-02-19 17:47:16,015 - framework - INFO - -----测试报告已发送-------

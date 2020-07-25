@@ -1,0 +1,9 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jun 10 15:11:50 CST 2020","Wed Jun 10 15:11:50 CST 2020","1","","test_allure_demo","TestDemoAllure","","","test_case_2",""
+"passed","Wed Jun 10 15:11:50 CST 2020","Wed Jun 10 15:11:50 CST 2020","0","","test_allure_demo","TestDemo2","","","test_case_3",""
+"passed","Wed Jun 10 15:11:50 CST 2020","Wed Jun 10 15:11:50 CST 2020","1","","test_allure_demo","TestDemoAllure","","","用例的标题","case description:作者：上海-悠悠 qq交流群：874033608
+        1.点文章分类导航标签 -跳转编辑页面
+        2.编辑页面输入，分类名称，如:上海-悠悠-可以输入
+        3.点保存按钮保存成功
+        "
+"passed","Wed Jun 10 15:11:50 CST 2020","Wed Jun 10 15:11:50 CST 2020","1","","test_allure_demo","TestDemo2","","","test_case_4",""
